@@ -1,8 +1,8 @@
-# 👋 Hola, soy Axelware Baker
+# 👋 Hola, soy Axel
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F0FF&width=600&lines=Desarrollador+Web+%F0%9F%92%BB+%7C+Freelancer+%7C+Ciberseguridad)
 
-💻 **Desarrollador Web | Freelancer | Entusiasta de Tecnología y Ciberseguridad**
+💻 **![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=500&color=00F0FF&width=500&lines=Apasionado+por+crear+soluciones+digitales;Explorador+de+tecnologías;Mejorando+la+experiencia+del+usuario)**
 
 [![GitHub followers](https://img.shields.io/github/followers/tu-usuario?style=social)](https://github.com/tu-usuario)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin)
@@ -11,6 +11,8 @@
 ---
 
 ## 🚀 Sobre mí
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=500&color=00F0FF&width=600&lines=Soy+desarrollador+web+y+freelancer;Apasionado+por+la+ciberseguridad;Siempre+aprendiendo+nuevas+tecnologías)
+
 Soy un desarrollador web apasionado por crear **soluciones digitales** que conecten negocios con sus clientes y optimicen procesos.  
 Trabajo como **freelancer**, desarrollando páginas web que aumentan ventas y facilitan la comunicación mediante WhatsApp.  
 
@@ -74,6 +76,6 @@ Me interesa **ciberseguridad**, buenas prácticas de desarrollo y siempre busco 
 ---
 
 ## ⚡ Fun Fact
-Me encanta **explorar nuevas tecnologías**, combinar desarrollo web y ciberseguridad, y crear proyectos que sean **inteligentes y seguros**.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=500&color=00F0FF&width=500&lines=Me+encanta+explorar+nuevas+tecnologías;Combinar+desarrollo+web+y+ciberseguridad;Crear+proyectos+inteligentes+y+seguros)
 
-![Cool Dev GIF](https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif)
+![Tech GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
