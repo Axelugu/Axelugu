@@ -1,81 +1,142 @@
-# 👋 Hola, soy Axel
+# 👾 Axelware Baker
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F0FF&width=600&lines=Desarrollador+Web+%F0%9F%92%BB+%7C+Freelancer+%7C+Ciberseguridad)
+```ascii
+ █████╗ ██╗  ██╗███████╗██╗
+██╔══██╗╚██╗██╔╝██╔════╝██║
+███████║ ╚███╔╝ █████╗  ██║
+██╔══██║ ██╔██╗ ██╔══╝  ██║
+██║  ██║██╔╝ ██╗███████╗███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
+```
 
-💻 **![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=500&color=00F0FF&width=500&lines=Apasionado+por+crear+soluciones+digitales;Explorador+de+tecnologías;Mejorando+la+experiencia+del+usuario)**
-
-[![GitHub followers](https://img.shields.io/github/followers/tu-usuario?style=social)](https://github.com/tu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin)
-[![Website](https://img.shields.io/badge/Website-000?style=flat&logo=internet-explorer&logoColor=white)](https://tu-sitio-web.com)
-
----
-
-## 🚀 Sobre mí
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=500&color=00F0FF&width=600&lines=Soy+desarrollador+web+y+freelancer;Apasionado+por+la+ciberseguridad;Siempre+aprendiendo+nuevas+tecnologías)
-
-Soy un desarrollador web apasionado por crear **soluciones digitales** que conecten negocios con sus clientes y optimicen procesos.  
-Trabajo como **freelancer**, desarrollando páginas web que aumentan ventas y facilitan la comunicación mediante WhatsApp.  
-
-Me interesa **ciberseguridad**, buenas prácticas de desarrollo y siempre busco aprender nuevas tecnologías para mejorar la experiencia del usuario.
+> Communications & Electronics Student  
+> Cybersecurity • AI • Web Development • Mobile Apps
 
 ---
 
-## 🛠 Habilidades
+# 🚀 About Me
 
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-95%25-ff4500?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-90%25-1E90FF?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-80%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
+I'm a developer passionate about:
 
-### Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-80%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-75%25-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-70%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-70%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+- 🔐 Cybersecurity
+- 🤖 Artificial Intelligence
+- 🌐 Full Stack Web Development
+- 📱 Mobile Applications
+- ⚡ Automation
+- 🖥️ Network Technologies
 
-### Herramientas & Otros
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-85%25-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-90%25-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-75%25-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/WhatsApp API-70%25-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
+Currently building projects focused on:
+
+- AI Interfaces
+- Security Simulators
+- Interactive Dashboards
+- Mobile Applications
+- Modern Web Experiences
 
 ---
 
-## 💡 Proyectos Destacados
+# 🧠 Tech Arsenal
 
-| Proyecto | Descripción | Tech |
-|----------|------------|------|
-| 🌐 **Sitio web negocio local** | Incrementó ventas y mejoró la comunicación con clientes | HTML, CSS, JS, WhatsApp API |
-| 🔒 **Seguridad web** | Implementación de buenas prácticas de ciberseguridad | Node.js, Express, MongoDB |
-| 💼 **Freelance Web Development** | Desarrollo de páginas web personalizadas según necesidades del cliente | Full Stack |
+## Languages
 
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
 
 ---
 
-## 📫 Contáctame
-<p align="left">
-  <a href="mailto:tu-correo"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/tu-numero"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tu-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
+## Cybersecurity
+
+```text
+[█████████████░░░░░] Network Security
+[████████████░░░░░░] SOC Concepts
+[███████████░░░░░░░] Threat Analysis
+[██████████░░░░░░░░] Ethical Hacking
+```
 
 ---
 
-## ⚡ Fun Fact
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=500&color=00F0FF&width=500&lines=Me+encanta+explorar+nuevas+tecnologías;Combinar+desarrollo+web+y+ciberseguridad;Crear+proyectos+inteligentes+y+seguros)
+## Artificial Intelligence
 
-![Tech GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+```text
+Neural Networks       ██████████
+Prompt Engineering    ██████████
+Automation            █████████
+AI Interfaces         ██████████
+```
+
+---
+
+## Web Development
+
+```text
+Frontend     ██████████
+Backend      ████████
+UI/UX        █████████
+APIs         █████████
+```
+
+---
+
+# ⚡ Featured Projects
+
+## 🧠 Living Neural Network
+
+Interactive AI visualization inspired by biological neurons.
+
+### Features
+
+- Dynamic nodes
+- Real-time signals
+- Glow effects
+- Interactive mouse response
+
+---
+
+## 🔐 Cybersecurity Simulator
+
+Build and manage your own cybersecurity company.
+
+### Systems
+
+- Missions
+- Employees
+- Clients
+- Security Operations
+- Company Growth
+
+---
+
+## 🌌 AI Visualizer
+
+Real-time neural network rendered with HTML5 Canvas.
+
+---
+
+# 📈 Current Objectives
+
+- Learn advanced cybersecurity concepts
+- Build SaaS projects
+- Create AI-powered applications
+- Improve English communication
+- Develop professional mobile apps
+
+---
+
+# 🌐 Connect
+
+GitHub: https://github.com/TU_USUARIO
+
+---
+
+```bash
+> SYSTEM STATUS
+
+Cybersecurity      [ONLINE]
+Artificial Intel. [ONLINE]
+Web Development   [ONLINE]
+Mobile Apps       [ONLINE]
+
+Mission: Build the Future
+```
